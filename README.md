@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rohit Kumar Goyal, a Software Engineer</div>  
   
 
-- 🔭 I’m currently working on E-commerce website using React  
+- 🔭 I’m currently working on E-commerce website using React 
   
 
 - 🌱 I’m currently learning React ⚛️  
