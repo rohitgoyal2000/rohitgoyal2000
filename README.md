@@ -6,10 +6,10 @@
 ### <div align="center">I'm Rohit Kumar Goyal, a Software Engineer</div>  
   
 
-- 🔭 I’m currently working on [Algo Visualizer](https://github.com/rohitgoyal2000/algo-visualizer) 
+- 🔭 I’m currently working on [Backend development ]() 
   
 
-- 🌱 I’m currently learning React ⚛️  
+- 🌱 I’m currently learning Springboot ⚛️  
   
 
 - ❓ Ask me about anything related to competitive programming and front end development.  
